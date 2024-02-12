@@ -1,0 +1,74 @@
+html {
+    overflow-x: hidden;
+}
+.page_banner .breadcrumb {
+    display: block;
+}
+.logo img {
+    width: 75%;
+}
+li.nav-item {
+    padding-bottom: 16px;
+    top: 11px;
+}
+.breadcrumb {
+    display: block;
+}
+.menu1 .dropdown-menu {
+    top: 60px;
+}
+
+.middle_top_bar {
+    padding-bottom: 10px;
+}
+.header_style2 .top_menu {
+    padding: 0;
+    padding-bottom: 5px;
+}
+.dropdown-menu {
+    top: 54px;
+}
+.product_detail_1 .breadcrumb {
+    display: flex;
+}
+li.previous.float-left {
+    float: left;
+}
+li.next.float-right {
+    float: right;
+}
+.top_address .address_info {
+    position: relative;
+}
+.product_detail_3_content .product-description {
+    position: relative;
+}
+.demo_changer {
+    height: 40px;
+}
+
+/* ==== 24-09-21 ==== */
+.login_register .close {
+    background: #e9595e;
+}
+.products .breadcrumb {
+    display: flex;
+}
+.checkout .pay-style ul li .form-check {
+    padding-left: 0;
+}
+.checkout .custom-control {
+    padding-left: 0;
+}
+span.custom-control-indicator {
+    display: none;
+}
+.section_padding.blog_detail_section input[type="text"]:focus-visible {
+    outline: none;
+}
+html {
+    overflow-x: hidden;
+}
+.home3 .dropdown-menu {
+    top: 49px;
+}
